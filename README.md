@@ -31,7 +31,7 @@ To run this project locally:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/SVM-Kernel-Analysis.git
+git clone (https://github.com/ihuk11208-oss/SVM-Kernel-Analysis)
 ```
 
 2. Install required Python packages:
